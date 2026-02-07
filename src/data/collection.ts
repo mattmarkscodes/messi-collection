@@ -144,7 +144,7 @@ export const collection: CollectionSection[] = [
       "Credence is not about achievement; it’s about belief that is no longer questioned. This section exists after doubt and before legacy. It answers the question: Who is allowed to speak with final authority? Credence is granted, not chased.",
     cards: [
       {
-        title: "2021-22 Panini Obsidian Soccer - Electric Etch Yellow #1",
+        title: "2021-22 Panini Obsidian Soccer - Electric Etch Yellow /10 #1",
         grade: "PSA/DNA Auto 10",
         tier: "Tier 1.5 (Essential)",
         serial: "08/10",
@@ -205,19 +205,24 @@ export const collection: CollectionSection[] = [
       "Reverence is not about achievement. It is not about dominance, validation, or completion. Reverence exists after the argument is already won. This section captures how the world responds to Messi once debate is over — when moments are commemorated not because they decide history, but because history has already decided.",
     cards: [
       {
-        title: "2013 Icons Messi — Scoring His First Goal",
+        title: "2013 Icons Official Messi – Scoring His First Goal #R2",
         grade: "PSA 10",
         tier: "Tier 1.5 (Anchor)",
         role: "Hindsight sanctifies the beginning",
+        image: "/cards/7_2013firstgoal.jpg",
+        imageBack: "/cards/7_2013firstgoalb.jpg",
         why:
-          "This is not an “Emergence” card — it is a looking-back card, created with hindsight, sanctifying the beginning once the end is known. The group celebration, not Messi alone, reinforces reverence rather than heroics — this is remembrance, not discovery.",
+          "This is not an “Emergence” card — it is a looking-back card, created with hindsight, sanctifying the beginning once the career is underway. The group celebration, not Messi alone, reinforces reverence rather than heroics — this is remembrance, not discovery.",
         psaPop: "3",
       },
       {
-        title: "2022–23 Futera PSG “The Headliners” Red /10 (700th career goal)",
+        title: "2022-23 Future PSG Headliners – Red /10 #PH32",
         grade: "PSA 8",
-        tier: "Tier 2 (Essential, Era Marker)",
+        tier: "Tier 2 (Essential)",
+        serial: "02/10",
         role: "Milestone transcending clubs",
+        image: "/cards/7_2022_700thgoal.jpg",
+        imageBack: "/cards/7_2022_700thgoalb.jpg",
         why:
           "This is not about PSG excellence — it’s about recognition during transition, marking a milestone that transcends clubs. A ceremonial acknowledgment of Messi’s scale as a footballer, captured during a liminal era rather than a peak one.",
         psaPop: "2 (8+)",
@@ -227,6 +232,8 @@ export const collection: CollectionSection[] = [
         grade: "PSA 10",
         tier: "Tier 3 (Supporting / Optional)",
         role: "Arrival becomes event",
+        image: "/cards/7_2023firstmiami.jpg",
+        imageBack: "/cards/7_2023firstmiamib.jpg",
         why:
           "This is not about MLS quality; it’s about arrival — the sport bending around Messi, not the other way around. A reverent documentation of Messi’s gravitational effect, where a single goal becomes a cultural event.",
         psaPop: "172",
@@ -236,6 +243,8 @@ export const collection: CollectionSection[] = [
         grade: "PSA 10",
         tier: "Tier 3 (Supporting)",
         role: "Mutual gratitude",
+        image: "/cards/7_2024goodbyearg.jpg",
+        imageBack: "/cards/7_2024goodbyeargb.jpg",
         why:
           "This is not about winning — it’s about acknowledgment flowing both directions between Messi and Argentina. A quiet, dignified image of mutual gratitude between icon and nation, after all debts were paid.",
         psaPop: "206",
@@ -245,6 +254,8 @@ export const collection: CollectionSection[] = [
         grade: "PSA 10",
         tier: "Tier 3 (Supporting / Optional)",
         role: "Modern epilogue",
+        image: "/cards/7_2025mlsmvp.jpg",
+        imageBack: "/cards/7_2025mlsmvpb.jpg",
         why:
           "This card commemorates Messi’s unprecedented back-to-back MLS MVPs, serving as a modern epilogue that honors sustained greatness and influence in his final competitive chapter without altering or competing with the foundational legacy established earlier in the collection.",
         psaPop: "1",
