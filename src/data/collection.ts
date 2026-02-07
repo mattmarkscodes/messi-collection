@@ -228,7 +228,7 @@ export const collection: CollectionSection[] = [
         psaPop: "2 (8+)",
       },
       {
-        title: "2023 Leaf Web Exclusives — First Goal for Inter Miami",
+        title: "2023 Leaf Web Exclusives — 1st Goal for Inter Miami",
         grade: "PSA 10",
         tier: "Tier 3 (Supporting)",
         role: "Arrival becomes event",
@@ -239,7 +239,7 @@ export const collection: CollectionSection[] = [
         psaPop: "172",
       },
       {
-        title: "2024 Topps Now Argentina — Farewell / Gesture",
+        title: "2024 Topps Now Argentina — Farewell",
         grade: "PSA 10",
         tier: "Tier 3 (Supporting)",
         role: "Mutual gratitude",
