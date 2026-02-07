@@ -230,7 +230,7 @@ export const collection: CollectionSection[] = [
       {
         title: "2023 Leaf Web Exclusives — First Goal for Inter Miami",
         grade: "PSA 10",
-        tier: "Tier 3 (Supporting / Optional)",
+        tier: "Tier 3 (Supporting)",
         role: "Arrival becomes event",
         image: "/cards/7_2023firstmiami.jpg",
         imageBack: "/cards/7_2023firstmiamib.jpg",
@@ -252,7 +252,7 @@ export const collection: CollectionSection[] = [
       {
         title: "2025 Topps Now MLS — Back-to-Back MVP",
         grade: "PSA 10",
-        tier: "Tier 3 (Supporting / Optional)",
+        tier: "Tier 3 (Supporting)",
         role: "Modern epilogue",
         image: "/cards/7_2025mlsmvp.jpg",
         imageBack: "/cards/7_2025mlsmvpb.jpg",
