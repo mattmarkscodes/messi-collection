@@ -2,7 +2,7 @@ export type Card = {
   title: string;
   grade?: string;
   tier: string;
-  serial: string;
+  serial?: string;
   role: string;
   why: string;
   psaPop?: string;
