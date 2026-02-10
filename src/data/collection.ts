@@ -216,7 +216,7 @@ export const collection: CollectionSection[] = [
         psaPop: "3",
       },
       {
-        title: "2022-23 Future PSG Headliners – Red /10 #PH32",
+        title: "2022-23 Futera PSG Headliners – Red /10 #PH32",
         grade: "PSA 8",
         tier: "Tier 2 (Essential)",
         serial: "02/10",
