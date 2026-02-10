@@ -164,15 +164,15 @@ export const collection: CollectionSection[] = [
       "Culmination is emotional resolution — the world finally catching up to what was always true.",
     cards: [
       {
-        title: "2022 Panini Instant World Cup – Golden Ball Winner #132",
+        title: "2022 Panini Instant World Cup – Messi Finally Gets His Crown #118",
         grade: "PSA 9",
-        tier: "Tier 3 (Supporting)",
+        tier: "Tier 2 (Essential)",
         role: "Legacy fulfilled",
         image: "/cards/6_2022wcqatar.jpg",
         imageBack: "/cards/6_2022wcqatarb.jpg",
         why:
-          "The defining image of legacy fulfilled, capturing triumph rather than celebration.",
-        psaPop: "541 (9+)",
+          "The defining image of a legacy fulfilled, capturing triumph and celebration.",
+        psaPop: "4,949 (9+)",
       },
       {
         title: "2023 Topps Argentina Fileteado – Champions #CH9",
@@ -182,7 +182,7 @@ export const collection: CollectionSection[] = [
         image: "/cards/6_2023champions.jpg",
         imageBack: "/cards/6_2023championsb.jpg",
         why:
-          "A culturally authentic Argentine aesthetic framing Messi as national icon, not just champion.",
+          "A culturally authentic Argentine aesthetic framing Messi as national icon and world champion.",
         psaPop: "45 (9+)",
       },
       {
@@ -193,7 +193,7 @@ export const collection: CollectionSection[] = [
         image: "/cards/6_2024copa.jpg",
         imageBack: "/cards/6_2024copab.jpg",
         why:
-          "Confirmation rather than discovery — proof that victory was not singular or accidental.",
+          "Confirmation rather than discovery — proof that the World Cup victory was not singular or accidental.",
         psaPop: "1,440",
       },
     ],
