@@ -152,6 +152,7 @@ a:hover { text-decoration: underline; }
 
   display: grid;
   white-space: pre-line;
+  line-height: 1.6;
   gap: 14px;
   text-align: center;
 }
