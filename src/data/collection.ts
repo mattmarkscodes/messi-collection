@@ -22,9 +22,9 @@ export const collection: CollectionSection[] = [
     id: "emergence",
     title: "Emergence",
     description:
-      "We commence with the era of emergence, a period that captures Messi before his inevitable rise to stardom. These cards document the moments when his talent is undeniable, yet his legacy remains a theoretical concept.\n" +
-      "Emergence is characterized by his arrival: the raw energy of youth and the first tangible evidence of an unprecedented talent entering the sport.\n" +
-      "Messi’s most sought-after and valuable cards belong to this era. Among them are his 2004-2005 Megacracks cards, including the universally recognized “true rookie” card, the #71bis. This card fetched an astonishing $960K in a PSA 10 grade in September 2025. Luckily, the Megacracks Barcelona team set is a bit more affordable, with the #35 profile, #62 Accion, and #89 Autografo cards.',
+      ` We commence with the era of emergence, a period that captures Messi before his inevitable rise to stardom. These cards document the moments when his talent is undeniable, yet his legacy remains a theoretical concept. 
+      Emergence is characterized by his arrival: the raw energy of youth and the first tangible evidence of an unprecedented talent entering the sport. 
+      Messi’s most sought-after and valuable cards belong to this era. Among them are his 2004-2005 Megacracks cards, including the universally recognized “true rookie” card, the #71bis. This card fetched an astonishing $960K in a PSA 10 grade in September 2025. Luckily, the Megacracks Barcelona team set is a bit more affordable, with the #35 profile, #62 Accion, and #89 Autografo cards.`,
     cards: [
       {
         title: "2004-05 Panini Megacracks Barça Campeón #62",
