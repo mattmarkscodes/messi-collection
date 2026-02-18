@@ -8,6 +8,7 @@ export default function Section({ section }: { section: CollectionSection }) {
         <div className="sectionHead">
           <h2 className="sectionTitle">{section.title}</h2>
           <p className="sectionDesc">{section.description}</p>
+          <p className="sectionDesc">{section.description2}</p>
         </div>
       </div>
 
