@@ -14,6 +14,7 @@ export type CollectionSection = {
   id: string;
   title: string;
   description: string;
+  description2: string;
   cards: Card[];
 };
 
