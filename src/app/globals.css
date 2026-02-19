@@ -36,7 +36,6 @@ a:hover { text-decoration: underline; }
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
 
-  background: #f6f4f1; /* gallery parchment */
 }
 
 /* Inner hero layout */
@@ -278,4 +277,87 @@ a:hover { text-decoration: underline; }
   padding-top: 26px;
   color: var(--muted);
   font-size: 12px;
+}
+
+/* Click-to-zoom wrapper */
+.zoomWrap {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  cursor: zoom-in;
+}
+/* Image click target */
+.zoomButton {
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  display: block;
+  position: relative;
+  cursor: pointer;
+  pointer-events: auto;    /* explicit */
+}
+
+.zoomImg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 10, 10, 0.72);
+  backdrop-filter: blur(10px);
+  z-index: 9999;
+}
+
+/* Ensure the stage is below the close button */
+.lightboxStage {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+
+  overflow: auto;
+  padding: 70px 18px 24px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* Close button always on top and clickable */
+.lightboxClose {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+
+  z-index: 3;              /* higher than stage and image */
+  pointer-events: auto;    /* explicit */
+
+  width: 42px;
+  height: 42px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.92);
+  font-size: 26px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+
+.lightboxImg {
+  width: min(80vw, 1100px);
+  height: auto !important;
+  max-height: none !important;
+
+  /* prevents distortion if some rule sets height/width elsewhere */
+  object-fit: contain;
+
+  display: block;
+  flex: 0 0 auto;
+
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 16px 60px rgba(0,0,0,0.35);
 }

@@ -1,4 +1,5 @@
 import type { Card } from "@/data/collection";
+import ZoomableImage from "./ZoomableImage";
 
 function placeholderUrl(label: string) {
   return `https://placehold.co/768x1280/png?text=${encodeURIComponent(label)}`;
@@ -18,11 +19,11 @@ export default function CardEntry({ card }: { card: Card }) {
       <div className="poster" aria-label={`Images for ${card.title}`}>
         <div className="posterGrid">
           <div className="posterFrame">
-            <img src={frontUrl(card)} alt={`${card.title} — Front`} />
-          </div>
-          <div className="posterFrame">
-            <img src={backUrl(card)} alt={`${card.title} — Back`} />
-          </div>
+			  <ZoomableImage src={frontUrl(card)} alt={`${card.title} — Front`} />
+			</div>
+			<div className="posterFrame">
+			  <ZoomableImage src={backUrl(card)} alt={`${card.title} — Back`} />
+			</div>
         </div>
       </div>
 
