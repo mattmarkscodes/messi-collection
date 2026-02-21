@@ -15,8 +15,7 @@ export default function Page() {
 			<p className="subtitle">
 			  This collection documents Lionel Messi’s full arc — emergence, ascendency,
 			  dominance, international pursuit, credence, culmination, and reverence —
-			  using culturally authentic, era-correct, and visually authoritative artifacts,
-			  with restraint favored over volume.
+			  using culturally authentic, era-correct, and visually authoritative artifacts.
 			</p>
 
 			<nav className="nav navCentered" aria-label="Sections">

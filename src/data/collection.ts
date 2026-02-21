@@ -25,7 +25,7 @@ export const collection: CollectionSection[] = [
     description:
       "We commence with the era of emergence, a period that captures Messi before his inevitable rise to stardom. These cards characterize his arrival: the raw energy of his youth and the first tangible evidence of an unprecedented talent entering the sport.",
     description2:
-      "Messi’s most sought-after and valuable cards belong to this era. Among them are his 2004-2005 Megacracks cards, including the universally recognized “true rookie” card, the #71bis. This card fetched an astonishing $960K in a PSA 10 grade in September 2025. Fortunately, the Megacracks Barcelona team set is a bit more affordable, with three cards available: the #35 Base, #62 Acción, and #89 Autografó.",
+      "Messi’s most sought-after and valuable cards belong to this era. Among them are his 2004-2005 Megacracks cards, including the universally recognized “true rookie” card, the #71bis. This card fetched an astonishing $960K in a PSA 10 grade in September 2025. Fortunately, the Megacracks Barcelona team set is significantly more affordable, with three cards attainable: the #35 Base, #62 Acción, and #89 Autografó.",
     cards: [
       {
         title: "2004-05 Panini Megacracks Barça Campeón #62",
@@ -45,7 +45,7 @@ export const collection: CollectionSection[] = [
         image: "/cards/1_04megacracks_auto.jpg",
         imageBack: "/cards/1_04megacracks_autob.jpg",
         why:
-          "The on-card facsimile autograph transforms emergence into acknowledged promise — Messi not just appearing, but formally documented by the club and the hobby. The back of card depicts him as a phenomenon on the pitch, and calls him “The Maradona of Rosario”. It’s crucial that this card is Barça-era, early-career, and restrained in design. Nothing here is celebratory yet — it’s quiet confidence.",
+          "The on-card facsimile autograph transforms emergence into acknowledged promise — Messi not just appearing, but formally documented by the club and the hobby. The back of card depicts him as a phenomenon on the pitch and grants him the nickname “The Maradona of Rosario”. It’s crucial that this card is Barça-era, early-career, and restrained in design. Nothing here is celebratory yet — it’s quiet confidence.",
       },
     ],
   },
@@ -81,7 +81,7 @@ export const collection: CollectionSection[] = [
         image: "/cards/3_2012titulometro.jpg",
         imageBack: "/cards/3_2012titulometrob.jpg",
         why:
-          "2012–13 is the statistical apex of Messi’s Barcelona years — record-breaking goal totals and relentless silverware. The card visually dipicts trophy-in-hand, scoreboard-style achievements running down the side. 5 La Liga titles, 3 Champions League, and so much more. This is dominance quantified. The PSA 10 signifies perfection, and the low population of just 14 reinforces the rarity of not just the collectible, but also Messi's talent.",
+          "2012–13 is the statistical apex of Messi’s Barcelona years — record‑breaking goal totals and relentless silverware. The card visually depicts trophy‑in‑hand and a scoreboard‑style list of achievements: 5 La Liga titles, 3 Champions League trophies, and so much more. This is dominance quantified. The PSA 10 signifies perfection, and the low population reinforces the rarity of both the collectible and Messi’s talent.",
       },
       {
         title: "2015-16 Topps UEFA Champions League Showcase #1",
@@ -91,7 +91,7 @@ export const collection: CollectionSection[] = [
         image: "/cards/3_2015uclshowcase.jpg",
         imageBack: "/cards/3_2015uclshowcaseb.jpg",
         why:
-          "2015 sits at the mature end of dominance — after multiple Champions Leagues, Ballon d’Ors, and with Messi as unquestioned leader. Calm, composed, armband visible — no celebration, no motion blur. The era of MSN has begun, and this is someone who expects to win. The Champions League branding is bold, the #1 spot in the checklist is earned. Where the Titulómetro card shouts with numbers, this card whispers with posture",
+          "2015 sits at the mature end of dominance — after multiple Champions Leagues, Ballon d’Ors, and with Messi as the unquestioned leader. Calm, composed, armband visible — no celebration, no motion blur. The era of MSN has begun, and Messi plays with the expectation of victory. The Champions League branding is bold, the #1 spot in the checklist is earned. Where the Titulómetro card shouts with numbers, this card whispers with posture.",
       },
     ],
   },
@@ -102,7 +102,7 @@ export const collection: CollectionSection[] = [
       "This section characterizes the long, unresolved chase — greatness proven at club level, but still searching for legitimacy on the world’s biggest stage. With representation from all five World Cups that Messi has participated in, these cards depict effort, responsibility, expectation, and burden. Continuous motion and pursuit without immediate resolution.",
     cards: [
       {
-        title: "2006 Panini FIFA World Cup Germany #47",
+        title: "2006 Panini FIFA World Cup - Germany",
         grade: "PSA 8",
         tier: "Tier 1",
         role: "Core Narrative Anchor",
@@ -112,7 +112,7 @@ export const collection: CollectionSection[] = [
           "This card captures Messi’s World Cup debut, a pivotal moment that would shape his international legacy. The back of the card reveals a humble reality: no prior appearances, no goals. That reality would swiftly change, as he recorded an assist and scored the final goal in his debut match. The card marks the beginning of a long and uncertain journey, serving as the indispensable origin of the international arc within the collection.",
       },
       {
-        title: "2010 Panini FIFA World Cup South Africa - “Premium” #44",
+        title: "2010 Panini FIFA World Cup - South Africa",
         grade: "PSA 10 (Pop 117)",
         tier: "Tier 1.5",
         role: "Narrative Anchor",
@@ -122,7 +122,7 @@ export const collection: CollectionSection[] = [
           "Placeholder: 2010 marks a transitional World Cup where expectation rose and the burden deepened. This card will be replaced with the correct 2010 artifact and final copy.",
       },
       {
-        title: "2014 Panini Prizm World Cup – World Cup Stars Silver Prizm #1",
+        title: "2014 Panini Prizm World Cup – World Cup Stars Silver Prizm",
         grade: "PSA 8 (Pop 55)",
         tier: "Tier 2",
         role: "Expectation and burden",
@@ -132,7 +132,7 @@ export const collection: CollectionSection[] = [
           "This card represents Messi as the face of Argentina entering Brazil 2014 — the tournament where the weight was heaviest. “World Cup Stars” is aspirational branding, not celebratory — exactly right for this moment. The PSA 8 is correct: this is not about perfection, it’s about responsibility.",
       },
       {
-        title: "2018 Panini Prizm World Cup – Red/Blue Wave #1",
+        title: "2018 Panini Prizm World Cup – Red/Blue Wave",
         grade: "PSA 10 (Pop 165)",
         tier: "Tier 1.5",
         role: "Persistence without closure",
@@ -150,9 +150,9 @@ export const collection: CollectionSection[] = [
       "Credence is not about achievement; it’s about belief that is no longer questioned. This section exists after doubt and before legacy. It answers the question: Who is allowed to speak with final authority? Credence is granted, not chased.",
     cards: [
       {
-        title: "2021-22 Panini Obsidian Soccer - Electric Etch Yellow /10 #1",
+        title: "2021-22 Panini Obsidian Soccer - Electric Etch Yellow /10",
         grade: "PSA/DNA Auto 10 (Pop 1)",
-        tier: "Tier 1.5",
+        tier: "Tier 1",
         serial: "08/10",
         role: "Authority acknowledging itself",
         image: "/cards/5_2021obsidianauto.jpg",
@@ -169,7 +169,7 @@ export const collection: CollectionSection[] = [
       "Culmination is emotional resolution — the world finally catching up to what was always true.",
     cards: [
       {
-        title: "2022 Panini Instant World Cup – Messi Finally Gets His Crown #118",
+        title: "2022 Panini Instant World Cup – Messi Finally Gets His Crown",
         grade: "PSA 9",
         tier: "Tier 2",
         role: "Legacy fulfilled",
@@ -179,7 +179,7 @@ export const collection: CollectionSection[] = [
           "The defining image of a legacy fulfilled, capturing triumph and celebration.",
       },
       {
-        title: "2023 Topps Argentina Fileteado – Champions #CH9",
+        title: "2023 Topps Argentina Fileteado – Champions",
         grade: "PSA 9 (Pop 45)",
         tier: "Tier 2",
         role: "National icon framing",
@@ -189,7 +189,7 @@ export const collection: CollectionSection[] = [
           "A culturally authentic Argentine aesthetic framing Messi as national icon and world champion.",
       },
       {
-        title: "2024 Panini Instant Copa América #43",
+        title: "2024 Panini Instant Copa América",
         grade: "PSA 10",
         tier: "Tier 2",
         role: "Confirmation, not discovery",
@@ -207,7 +207,7 @@ export const collection: CollectionSection[] = [
       "Reverence is not about achievement. It is not about dominance, validation, or completion. Reverence exists after the argument is already won. This section captures how the world responds to Messi once debate is over — when moments are commemorated not because they decide history, but because history has already decided.",
     cards: [
       {
-        title: "2013 Icons Official Messi – Scoring His First Goal #R2",
+        title: "2013 Icons Official Messi – Scoring His First Goal",
         grade: "PSA 10 (Pop 3)",
         tier: "Tier 1.5",
         role: "Hindsight sanctifies the beginning",
@@ -217,7 +217,7 @@ export const collection: CollectionSection[] = [
           "This is not an “Emergence” card — it is a looking-back card, created with hindsight, sanctifying the beginning once the career is underway. The group celebration, not Messi alone, reinforces reverence rather than heroics — this is remembrance, not discovery.",
       },
       {
-        title: "2022-23 Futera PSG Headliners – Red /10 #PH32",
+        title: "2022-23 Futera PSG Headliners – Red /10",
         grade: "PSA 8 (Pop 2)",
         tier: "Tier 2",
         serial: "02/10",
