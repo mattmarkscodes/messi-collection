@@ -119,7 +119,7 @@ export const collection: CollectionSection[] = [
         image: "/cards/4_2010wcpremium.jpg",
         imageBack: "/cards/4_2010wcpremiumb.jpg",
         why:
-          "Placeholder: 2010 marks a transitional World Cup where expectation rose and the burden deepened. This card will be replaced with the correct 2010 artifact and final copy.",
+          "An artifact of the 2010 struggle — a perfect storm of pressure, tactics, and timing. Although he had zero goals in five matches, he remained the engine behind the team: drawing defenders, creating chances, and bending the attack through gravity. The premium finish signals stature without celebration, a quiet elevation rather than a coronation. The important thing, historically, is that 2010 became a hinge point — the weight before the breakthrough.",
       },
       {
         title: "2014 Panini Prizm World Cup – World Cup Stars Silver Prizm",
@@ -129,7 +129,7 @@ export const collection: CollectionSection[] = [
         image: "/cards/4_2014wc1star.jpg",
         imageBack: "/cards/4_2014wc1starb.jpg",
         why:
-          "This card represents Messi as the face of Argentina entering Brazil 2014 — the tournament where the weight was heaviest. “World Cup Stars” is aspirational branding, not celebratory — exactly right for this moment. The PSA 8 is correct: this is not about perfection, it’s about responsibility.",
+          "2014 is when Messi learned how cruel international football can be even when you do almost everything right. “World Cup Stars” is aspirational branding, not celebratory — exactly right for this moment. While he won the Golden Ball of the tournament, Argentina lost the Final. But what's often ignored is that they were competitive, tactically coherent, and one moment away from winning the World Cup. That had not been true in 2010 or 2006. That lesson matters. The later triumphs are built directly on the scars of 2014. You don’t get the serenity of Qatar without the ache of Rio.",
       },
       {
         title: "2018 Panini Prizm World Cup – Red/Blue Wave",
