@@ -134,7 +134,7 @@ export const collection: CollectionSection[] = [
       {
         title: "2018 Panini Prizm World Cup – Red/Blue Wave",
         grade: "PSA 10 (Pop 165)",
-        tier: "Tier 1.5",
+        tier: "Tier 2",
         role: "Persistence without closure",
         image: "/cards/4_2018redblue.jpg",
         imageBack: "/cards/4_2018redblueb.jpg",
