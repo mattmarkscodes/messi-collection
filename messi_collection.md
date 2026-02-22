@@ -1,5 +1,5 @@
 # The Messi Card Collection
-This collection documents Lionel Messi’s full arc — emergence, ascendency, dominance, international pursuit, credence, culmination, and reverence — using culturally authentic, era-correct, and visually authoritative artifacts.
+This collection documents Lionel Messi’s full arc — emergence, ascent, dominance, international pursuit, credence, culmination, and reverence — using culturally authentic, era-correct, and visually authoritative artifacts.
 
 
 ## EMERGENCE
